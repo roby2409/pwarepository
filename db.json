@@ -1,0 +1,24 @@
+ {
+ "products":  [
+{"id":1,"name":"Bandicoot, long-nosed","category":"Goldenrod"},
+{"id":2,"name":"Duiker, gray","category":"Teal"},
+{"id":3,"name":"Gull, dusky","category":"Violet"},
+{"id":4,"name":"Ring-tailed possum","category":"Orange"},
+{"id":5,"name":"Klipspringer","category":"Fuscia"},
+{"id":6,"name":"Greater rhea","category":"Yellow"},
+{"id":7,"name":"Spoonbill, european","category":"Orange"},
+{"id":8,"name":"Dog, african wild","category":"Red"},
+{"id":9,"name":"Bobcat","category":"Purple"},
+{"id":10,"name":"Squirrel, arctic ground","category":"Teal"},
+{"id":11,"name":"Armadillo, nine-banded","category":"Puce"},
+{"id":12,"name":"Malabar squirrel","category":"Teal"},
+{"id":13,"name":"Black-collared barbet","category":"Indigo"},
+{"id":14,"name":"Chickadee, black-capped","category":"Yellow"},
+{"id":15,"name":"American alligator","category":"Maroon"},
+{"id":16,"name":"Black-backed jackal","category":"Green"},
+{"id":17,"name":"Owl, snowy","category":"Turquoise"},
+{"id":18,"name":"Red-necked phalarope","category":"Pink"},
+{"id":19,"name":"Rattlesnake, eastern diamondback","category":"Khaki"},
+{"id":20,"name":"Weeper capuchin","category":"Yellow"}
+]
+}
